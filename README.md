@@ -1,7 +1,6 @@
 # 👋 Hi I am Taha 👋
  
 ## I am Full Stack Developer
-
 ## You can contact me at sahin.taha.295@gmail.com
   
   <h3>  Skills  <h3/>
