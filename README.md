@@ -1,4 +1,4 @@
-<h1>👋 Hi I am Taha 👋<h1/>
+# 👋 Hi I am Taha 👋
  
 ## I am Full Stack Developer
   
