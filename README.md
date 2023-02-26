@@ -13,5 +13,6 @@
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="NodeJS" style="max-width: 100%;">
  <h3>  Social  <h3/>
   <a href="https://discord.com/users/sTahaDev3040" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="max-width: 100%;"></a>
+  <a href="https://www.twitter.com/eren__balci" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="max-width: 100%;"></a>
   
 
