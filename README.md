@@ -1,6 +1,6 @@
 # 👋 Hi I am Taha 👋
  
-## I am Full Stack and Rust Developer
+## I am Full Stack and Cpp Developer
 ## You can contact me at sahin.taha.295@gmail.com
   
   <h3>  Skills  <h3/>
